@@ -1,0 +1,4 @@
+Three .dat files have to be in same directory as program
+Write Anime in each field, then press on 'Choose Anime'
+Every time someone wins, they loose 5% probability and the other two gain 2.5% each time
+Press 'Reset Probabilities' to reset to 33/33/33
